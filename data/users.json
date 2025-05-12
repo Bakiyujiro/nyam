@@ -1,0 +1,53 @@
+[
+  {
+    "username": "omar",
+    "email": "omar@gmail.com",
+    "password": "$2b$10$H.tYUXI4b4BDCzf3pRkA9.JLmmo6Mr0wwkLcQxWM4T3j9iAOg38jG",
+    "todos": [
+      {
+        "id": "1747060783392",
+        "text": "num",
+        "completed": true
+      },
+      {
+        "id": "1747061399884",
+        "text": "cooking",
+        "completed": false
+      },
+      {
+        "id": "1747061403983",
+        "text": "laundry",
+        "completed": true
+      },
+      {
+        "id": "1747061415641",
+        "text": "shopping",
+        "completed": false
+      }
+    ],
+    "avatar": "omar_avatar.jpg"
+  },
+  {
+    "username": "omri",
+    "email": "omri@gmail.com",
+    "password": "$2b$10$N2R5oWctpjKnb4yyEoU4ae1t/Syr6QrGgDML.GU.pm8o3hAF1UNZC",
+    "todos": [
+      {
+        "id": "1747060829056",
+        "text": "yuming",
+        "completed": true
+      },
+      {
+        "id": "1747060902819",
+        "text": "laundry",
+        "completed": false
+      },
+      {
+        "id": "1747060907860",
+        "text": "cooking",
+        "completed": false
+      }
+    ],
+    "avatar": "omri_avatar.jpg"
+  }
+]
